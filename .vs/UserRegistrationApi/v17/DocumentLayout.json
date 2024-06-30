@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sozan\\source\\repos\\UserRegistrationApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DAD7DB2B-F2D3-4CC1-AF9F-AEDAC9FB9B1D}|UserRegistrationApi.csproj|c:\\users\\sozan\\source\\repos\\userregistrationapi\\controllers\\registrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAD7DB2B-F2D3-4CC1-AF9F-AEDAC9FB9B1D}|UserRegistrationApi.csproj|solutionrelative:controllers\\registrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAD7DB2B-F2D3-4CC1-AF9F-AEDAC9FB9B1D}|UserRegistrationApi.csproj|c:\\users\\sozan\\source\\repos\\userregistrationapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAD7DB2B-F2D3-4CC1-AF9F-AEDAC9FB9B1D}|UserRegistrationApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAD7DB2B-F2D3-4CC1-AF9F-AEDAC9FB9B1D}|UserRegistrationApi.csproj|c:\\users\\sozan\\source\\repos\\userregistrationapi\\models\\userregistrationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAD7DB2B-F2D3-4CC1-AF9F-AEDAC9FB9B1D}|UserRegistrationApi.csproj|solutionrelative:models\\userregistrationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAD7DB2B-F2D3-4CC1-AF9F-AEDAC9FB9B1D}|UserRegistrationApi.csproj|c:\\users\\sozan\\source\\repos\\userregistrationapi\\controllers\\industrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAD7DB2B-F2D3-4CC1-AF9F-AEDAC9FB9B1D}|UserRegistrationApi.csproj|solutionrelative:controllers\\industrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAD7DB2B-F2D3-4CC1-AF9F-AEDAC9FB9B1D}|UserRegistrationApi.csproj|c:\\users\\sozan\\source\\repos\\userregistrationapi\\attributes\\uniqueloginattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAD7DB2B-F2D3-4CC1-AF9F-AEDAC9FB9B1D}|UserRegistrationApi.csproj|solutionrelative:attributes\\uniqueloginattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAD7DB2B-F2D3-4CC1-AF9F-AEDAC9FB9B1D}|UserRegistrationApi.csproj|c:\\users\\sozan\\source\\repos\\userregistrationapi\\userregistrationapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DAD7DB2B-F2D3-4CC1-AF9F-AEDAC9FB9B1D}|UserRegistrationApi.csproj|solutionrelative:userregistrationapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IndustryController.cs",
+              "DocumentMoniker": "C:\\Users\\sozan\\source\\repos\\UserRegistrationApi\\Controllers\\IndustryController.cs",
+              "RelativeDocumentMoniker": "Controllers\\IndustryController.cs",
+              "ToolTip": "C:\\Users\\sozan\\source\\repos\\UserRegistrationApi\\Controllers\\IndustryController.cs",
+              "RelativeToolTip": "Controllers\\IndustryController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T15:46:18.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UniqueLoginAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\sozan\\source\\repos\\UserRegistrationApi\\Attributes\\UniqueLoginAttribute.cs",
+              "RelativeDocumentMoniker": "Attributes\\UniqueLoginAttribute.cs",
+              "ToolTip": "C:\\Users\\sozan\\source\\repos\\UserRegistrationApi\\Attributes\\UniqueLoginAttribute.cs",
+              "RelativeToolTip": "Attributes\\UniqueLoginAttribute.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T14:52:36.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserRegistrationDto.cs",
+              "DocumentMoniker": "C:\\Users\\sozan\\source\\repos\\UserRegistrationApi\\Models\\UserRegistrationDto.cs",
+              "RelativeDocumentMoniker": "Models\\UserRegistrationDto.cs",
+              "ToolTip": "C:\\Users\\sozan\\source\\repos\\UserRegistrationApi\\Models\\UserRegistrationDto.cs",
+              "RelativeToolTip": "Models\\UserRegistrationDto.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAmwCUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T08:53:10.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegistrationController.cs",
+              "DocumentMoniker": "C:\\Users\\sozan\\source\\repos\\UserRegistrationApi\\Controllers\\RegistrationController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RegistrationController.cs",
+              "ToolTip": "C:\\Users\\sozan\\source\\repos\\UserRegistrationApi\\Controllers\\RegistrationController.cs",
+              "RelativeToolTip": "Controllers\\RegistrationController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T08:55:59.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sozan\\source\\repos\\UserRegistrationApi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\sozan\\source\\repos\\UserRegistrationApi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAADsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T09:35:45.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserRegistrationApi.csproj",
+              "DocumentMoniker": "C:\\Users\\sozan\\source\\repos\\UserRegistrationApi\\UserRegistrationApi.csproj",
+              "RelativeDocumentMoniker": "UserRegistrationApi.csproj",
+              "ToolTip": "C:\\Users\\sozan\\source\\repos\\UserRegistrationApi\\UserRegistrationApi.csproj",
+              "RelativeToolTip": "UserRegistrationApi.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-30T14:50:47.789Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
